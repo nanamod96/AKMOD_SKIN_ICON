@@ -1,7 +1,7 @@
 cd $HOME/AKMOD_SKIN_ICON
-chmod +x setup
+chmod +x run
 chmod +x main
 chmod +x unpak
 chmod +x repak
 chmod +x TOOL_MAKE_BY_TELEGRAM_CHANNEL_AKMODPUBG.bms
-./setup
+./run
